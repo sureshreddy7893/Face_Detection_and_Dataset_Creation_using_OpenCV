@@ -1,4 +1,4 @@
-# Face_Detection_and_Tracking
+# Face_Detection_and_Dataset_Creation_using_OpenCV
 ## 📌 Project Overview
 This project implements a real-time face detection system using OpenCV and Haar Cascade classifiers. It detects human faces through a webcam and captures face images to create a structured dataset for future computer vision and face recognition tasks.
 
