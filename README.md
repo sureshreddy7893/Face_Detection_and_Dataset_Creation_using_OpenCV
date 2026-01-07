@@ -91,6 +91,8 @@ Build attendance or authentication systems
 
 This project is developed for educational purposes only. Face images are not included in the repository to ensure user privacy.
 
+Note: Dataset images are intentionally excluded and maintained in a private repository to ensure data privacy and ethical use.
+
 ---
 
 👨‍💻 Author
